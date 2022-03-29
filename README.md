@@ -1,0 +1,2 @@
+# BedrockLauncher.Installer
+BedrockLauncher.Installer
